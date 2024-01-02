@@ -74,7 +74,7 @@ body {
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
-	color: #6e6e6e;
+	color: #000000;
 }
 
 /**
@@ -90,7 +90,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #FF0077;
+	color: #CC00DD;
 	outline: 0;
 }
 
@@ -2041,7 +2041,7 @@ header .logo a {
 	text-align: center;
 }
 #cta p.lead {
-	color: #6e6e6e;
+	color: #000000;
 }
 .cta-content {
 	max-width: 640px;
